@@ -4,7 +4,7 @@ A notification service for multiple integration
 
 ## Requirements
 
-- Go 1.13 or above
+- Go 1.11 or above
 
 ## Installation
 
